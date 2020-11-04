@@ -1,0 +1,71 @@
+{
+  "_from": "git+https://github.com/lpyedge/capacitor-hot-code-push.git",
+  "_id": "capacitor-hot-code-push-plugin@1.6.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/capacitor-hot-code-push-plugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/lpyedge/capacitor-hot-code-push.git",
+    "rawSpec": "https://github.com/lpyedge/capacitor-hot-code-push.git",
+    "saveSpec": "git+https://github.com/lpyedge/capacitor-hot-code-push.git",
+    "fetchSpec": "https://github.com/lpyedge/capacitor-hot-code-push.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/lpyedge/capacitor-hot-code-push.git#eebc74fa4aef6a4b16e1a2232831bba4e0b593fa",
+  "_spec": "https://github.com/lpyedge/capacitor-hot-code-push.git",
+  "_where": "/Users/lpyedge/Desktop/Government/src-capacitor",
+  "author": {
+    "name": "Nikolay Demyankov for Nordnet Bank AB"
+  },
+  "bugs": {
+    "url": "https://github.com/nordnet/capacitor-hot-code-push/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "capacitor-hot-code-push-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "xml2js": "^0.4"
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to perform code updates on the fly",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "homepage": "https://github.com/nordnet/capacitor-hot-code-push#readme",
+  "keywords": [
+    "cordova",
+    "nordnet",
+    "mobile",
+    "code",
+    "update",
+    "push",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "capacitor-hot-code-push-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordnet/capacitor-hot-code-push.git"
+  },
+  "version": "1.5.3"
+}
